@@ -48,7 +48,7 @@ img.tocimg
 
 img.tocimg:hover
 {
-	opacity : 0;
+	z-index : -10;
 }
 
 div.tocBody
